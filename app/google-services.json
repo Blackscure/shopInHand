@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "71722896699",
+    "firebase_url": "https://shopinhand-6ebe2.firebaseio.com",
+    "project_id": "shopinhand-6ebe2",
+    "storage_bucket": "shopinhand-6ebe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71722896699:android:bd417ee5f896f58e73bb1e",
+        "android_client_info": {
+          "package_name": "com.blackscure.shopinhand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71722896699-nf2v8pq94pvdk8cfba9v0b5jglanss62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackscure.shopinhand",
+            "certificate_hash": "5541f3575e8cbb92744b1a45d8d6c679efeb4146"
+          }
+        },
+        {
+          "client_id": "71722896699-3n5tkv29jdkr0hd9tppn25bumj59i23g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArWb7mMCL5P7y-X-25t--QDbROy3lHsqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71722896699-3n5tkv29jdkr0hd9tppn25bumj59i23g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
