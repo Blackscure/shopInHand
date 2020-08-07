@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">shopInHand</string>
+    <string name="app_name" translatable="false">shopInHand</string>
+    <string name="find_discover_choose_and_buy_what_you_love">Find, Discover, Choose and buy what You Love</string>
 </resources>
